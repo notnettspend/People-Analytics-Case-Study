@@ -1,0 +1,131 @@
+# Contexto do Projeto
+
+![](images/logo-orion-tech.png)
+
+------------------------------------------------------------------------
+
+# Projeto de People Analytics
+
+## Empresa Cliente
+
+A **Orion Tech Solutions** é uma empresa fictícia do setor de tecnologia fundada em 2016, especializada no desenvolvimento de softwares corporativos para os segmentos financeiro, logístico e de saúde.
+
+Com sede em São Paulo e atuação em diversas regiões do Brasil, a empresa passou por um rápido processo de expansão nos últimos anos, aumentando significativamente seu quadro de colaboradores e ampliando sua carteira de clientes.
+
+Atualmente, a Orion Tech Solutions conta com aproximadamente **30 colaboradores** distribuídos entre diferentes departamentos e níveis hierárquicos.
+
+Apesar do crescimento da empresa, a diretoria identificou alguns desafios relacionados à gestão de pessoas, tornando necessária uma análise mais detalhada sobre o perfil dos colaboradores e os indicadores internos da organização.
+
+------------------------------------------------------------------------
+
+# Situação Atual
+
+Durante a reunião realizada entre a diretoria da Orion Tech Solutions e a consultoria **Insight Analytics**, foram levantadas algumas preocupações relacionadas ao capital humano da empresa.
+
+Entre elas destacam-se:
+
+- dificuldade para identificar colaboradores com potencial para promoção;
+- diferenças salariais entre cargos semelhantes;
+- departamentos com desempenho abaixo do esperado;
+- colaboradores com baixos índices de satisfação;
+- aumento do número de faltas e horas extras;
+- necessidade de compreender melhor o perfil dos funcionários;
+- ausência de indicadores que auxiliem a tomada de decisão do setor de Recursos Humanos.
+
+Diante desse cenário, a empresa contratou a **Insight Analytics**, consultoria especializada em Data Analytics e People Analytics, para desenvolver um estudo utilizando a linguagem **R**.
+
+O objetivo principal é transformar dados em informações capazes de auxiliar a empresa na tomada de decisões estratégicas relacionadas à gestão de pessoas.
+
+------------------------------------------------------------------------
+
+# Objetivo Geral
+
+Desenvolver uma análise de People Analytics utilizando a linguagem R, explorando diferentes técnicas de manipulação e análise de dados para gerar informações relevantes sobre os colaboradores da empresa.
+
+------------------------------------------------------------------------
+
+# Objetivos Específicos
+
+Ao longo deste projeto serão desenvolvidas diversas análises, entre elas:
+
+- organizar a base de colaboradores;
+- analisar cargos e departamentos;
+- calcular médias salariais;
+- comparar salários entre diferentes cargos;
+- analisar tempo de empresa;
+- calcular médias de desempenho;
+- identificar colaboradores com maior desempenho;
+- identificar colaboradores com menor desempenho;
+- analisar índices de satisfação;
+- calcular médias por departamento;
+- analisar quantidade de colaboradores por cargo;
+- identificar colaboradores elegíveis para promoção;
+- verificar funcionários com salários acima ou abaixo da média;
+- identificar departamentos com melhor desempenho;
+- produzir indicadores para apoiar decisões do setor de Recursos Humanos.
+
+------------------------------------------------------------------------
+
+# Escopo do Projeto
+
+O desenvolvimento deste projeto será realizado em etapas, acompanhando a evolução dos conhecimentos adquiridos na linguagem R.
+
+Inicialmente serão utilizados os seguintes conteúdos:
+
+- criação de matrizes;
+- criação de data frames;
+- manipulação de dados;
+- operadores aritméticos;
+- operadores relacionais;
+- estruturas condicionais.
+
+Conforme novos conteúdos forem estudados, o projeto será expandido para incluir:
+
+- estruturas de repetição;
+- funções;
+- importação de arquivos CSV;
+- limpeza e tratamento de dados;
+- estatística descritiva;
+- visualização de dados;
+- dashboards;
+- relatórios automatizados.
+
+Dessa forma, o projeto evoluirá continuamente, simulando um cenário real de consultoria em People Analytics.
+
+------------------------------------------------------------------------
+
+# Base de Dados
+
+Para este estudo será construída uma base fictícia contendo informações de aproximadamente **30 colaboradores**.
+
+Cada colaborador possuirá informações como:
+
+- ID;
+- nome;
+- idade;
+- sexo;
+- departamento;
+- cargo;
+- escolaridade;
+- tempo de empresa;
+- modalidade de trabalho;
+- salário;
+- bônus anual;
+- horas extras;
+- quantidade de faltas;
+- avaliação de desempenho;
+- índice de satisfação;
+- gestor responsável;
+- situação do colaborador (ativo ou desligado).
+
+Todos os dados utilizados neste projeto serão fictícios e foram criados exclusivamente para fins de estudo e construção de portfólio.
+
+------------------------------------------------------------------------
+
+# Resultado Esperado
+
+Ao final do projeto espera-se produzir um conjunto de análises capazes de fornecer uma visão ampla sobre o quadro de colaboradores da Orion Tech Solutions.
+
+Os resultados obtidos poderão auxiliar a empresa na identificação de padrões, geração de indicadores e apoio à tomada de decisões relacionadas à gestão de pessoas.
+
+Este projeto foi desenvolvido exclusivamente para fins educacionais, buscando aplicar conceitos da linguagem R em um cenário semelhante ao encontrado em projetos reais de People Analytics.

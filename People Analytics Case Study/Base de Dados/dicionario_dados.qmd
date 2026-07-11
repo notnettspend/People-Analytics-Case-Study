@@ -1,0 +1,148 @@
+# Dicionário de Dados
+
+Projeto: **People Analytics Case Study**
+
+Empresa Cliente: **Orion Tech Solutions**
+
+------------------------------------------------------------------------
+
+# Introdução
+
+Este documento apresenta o dicionário de dados utilizado no projeto **People Analytics Case Study**, desenvolvido para a empresa fictícia **Orion Tech Solutions**.
+
+Seu objetivo é documentar todas as variáveis presentes na base de dados utilizada durante o projeto, descrevendo suas características, finalidade e forma de utilização ao longo das análises.
+
+A documentação da base de dados é uma etapa fundamental em projetos de análise de dados, pois permite que qualquer profissional compreenda rapidamente a estrutura das informações utilizadas, facilitando a manutenção, expansão e interpretação das análises desenvolvidas.
+
+Todos os dados apresentados neste projeto são fictícios e foram criados exclusivamente para fins educacionais e construção de portfólio.
+
+------------------------------------------------------------------------
+
+# Objetivo da Base de Dados
+
+A base de dados foi desenvolvida para simular um ambiente corporativo real, permitindo aplicar conceitos da linguagem **R** em um cenário semelhante ao encontrado em projetos de **People Analytics**.
+
+Ela será utilizada durante todo o desenvolvimento do projeto e servirá como base para exercícios, manipulação de dados, geração de indicadores, análises exploratórias e futuras visualizações.
+
+------------------------------------------------------------------------
+
+# Estrutura da Base
+
+A base será composta por aproximadamente **30 colaboradores fictícios**.
+
+Cada linha da tabela representa um colaborador.
+
+Cada coluna representa uma característica, informação cadastral ou indicador relacionado ao colaborador.
+
+Ao longo do projeto, novas variáveis poderão ser adicionadas conforme novos conteúdos da linguagem R forem sendo estudados.
+
+------------------------------------------------------------------------
+
+# Dicionário das Variáveis
+
+| Variável | Tipo | Descrição |
+|--------------------------|------------------|-----------------------------|
+| id | Numérico | Identificador único de cada colaborador. |
+| nome | Texto | Nome fictício do colaborador. |
+| idade | Numérico | Idade do colaborador em anos. |
+| sexo | Texto | Sexo do colaborador. |
+| escolaridade | Texto | Grau de escolaridade do colaborador. |
+| estado_civil | Texto | Estado civil do colaborador. |
+| cidade | Texto | Cidade onde o colaborador atua. |
+| departamento | Texto | Departamento ao qual pertence. |
+| cargo | Texto | Cargo ocupado pelo colaborador. |
+| gestor | Texto | Nome do gestor responsável pelo colaborador. |
+| modalidade | Texto | Modalidade de trabalho (Presencial, Híbrido ou Remoto). |
+| data_admissao | Data | Data de admissão do colaborador. |
+| tempo_empresa | Numérico | Tempo de empresa em anos. |
+| salario | Numérico | Salário mensal do colaborador. |
+| bonus | Numérico | Valor do bônus anual recebido. |
+| horas_extras | Numérico | Quantidade de horas extras realizadas no mês. |
+| faltas | Numérico | Quantidade de faltas registradas. |
+| desempenho | Numérico | Avaliação de desempenho em escala de 0 a 10. |
+| satisfacao | Numérico | Índice de satisfação em escala de 0 a 10. |
+| situacao | Texto | Situação atual do colaborador (Ativo ou Desligado). |
+
+------------------------------------------------------------------------
+
+# Relação entre as Variáveis
+
+Embora cada variável represente uma informação específica, diversas delas possuem relação entre si.
+
+Durante as análises, essas relações permitirão gerar indicadores importantes para apoiar decisões do setor de Recursos Humanos.
+
+Alguns exemplos dessas relações são:
+
+- O cargo influencia diretamente o salário.
+- O departamento determina o gestor responsável.
+- O tempo de empresa pode influenciar promoções e remuneração.
+- O desempenho poderá ser utilizado para identificar colaboradores com potencial para crescimento.
+- O índice de satisfação poderá auxiliar na identificação de possíveis fatores relacionados ao desligamento de colaboradores.
+- Horas extras e faltas poderão ser utilizadas para gerar indicadores de produtividade.
+
+------------------------------------------------------------------------
+
+# Utilização das Variáveis
+
+Ao longo do desenvolvimento deste projeto, essas informações serão utilizadas para realizar diferentes tipos de análises, entre elas:
+
+- organização da base de dados;
+- manipulação de linhas e colunas;
+- seleção de registros específicos;
+- cálculos de médias;
+- cálculos de somatórios;
+- criação de estruturas condicionais;
+- geração de indicadores;
+- análises exploratórias;
+- construção de gráficos;
+- elaboração de relatórios.
+
+Conforme novos conteúdos da linguagem **R** forem estudados, novas técnicas serão aplicadas utilizando esta mesma base de dados.
+
+------------------------------------------------------------------------
+
+# Qualidade dos Dados
+
+Como toda análise depende diretamente da qualidade das informações disponíveis, a base de dados deste projeto seguirá critérios de consistência para manter a coerência entre os registros.
+
+Durante a construção da base serão considerados aspectos como:
+
+- compatibilidade entre cargo e salário;
+- coerência entre tempo de empresa e função exercida;
+- departamentos compatíveis com seus respectivos cargos;
+- avaliações de desempenho dentro da escala estabelecida;
+- índices de satisfação dentro dos limites definidos;
+- identificação única para cada colaborador.
+
+Essas práticas simulam procedimentos normalmente adotados em projetos profissionais de análise de dados.
+
+------------------------------------------------------------------------
+
+# Expansão da Base
+
+Esta base foi planejada para evoluir juntamente com o desenvolvimento do projeto.
+
+Novas variáveis poderão ser adicionadas futuramente conforme novos conteúdos forem estudados, permitindo ampliar as possibilidades de análise.
+
+Entre as futuras informações previstas estão:
+
+- promoções;
+- treinamentos realizados;
+- certificações;
+- benefícios;
+- avaliações anuais;
+- metas individuais;
+- histórico salarial;
+- indicadores de turnover;
+- absenteísmo;
+- produtividade.
+
+------------------------------------------------------------------------
+
+# Observações
+
+Todos os dados utilizados neste projeto são fictícios e não representam pessoas, empresas ou organizações reais.
+
+O objetivo deste estudo é aplicar conceitos da linguagem **R** em um cenário inspirado em projetos reais de **People Analytics**, permitindo desenvolver habilidades relacionadas à manipulação, análise e interpretação de dados voltados à gestão de pessoas.
+
+Este documento poderá ser atualizado durante o desenvolvimento do projeto para refletir a evolução da base de dados e das análises realizadas.
