@@ -1,0 +1,57 @@
+# Manipulação de Dados
+
+Projeto: **People Analytics Case Study**
+
+Empresa Cliente: **Orion Tech Solutions**
+
+------------------------------------------------------------------------
+
+# Introdução
+
+Após a construção da base de dados, inicia-se a etapa de manipulação das informações disponibilizadas pela empresa.
+
+Nesta fase, a equipe de consultoria tem como objetivo compreender melhor a estrutura dos dados, realizar consultas específicas e responder às primeiras solicitações encaminhadas pelo setor de Recursos Humanos.
+
+Todas as atividades desenvolvidas nesta etapa utilizam exclusivamente a base criada anteriormente, simulando situações comuns encontradas em projetos reais de People Analytics.
+
+------------------------------------------------------------------------
+
+# Objetivo
+
+O principal objetivo desta etapa é aplicar técnicas de manipulação de dados utilizando a linguagem **R**, permitindo consultar, selecionar, filtrar e resumir informações presentes na base de colaboradores.
+
+Além do desenvolvimento técnico, esta etapa busca demonstrar como pequenas consultas podem auxiliar gestores na tomada de decisão e na obtenção de indicadores importantes sobre a força de trabalho da organização.
+
+------------------------------------------------------------------------
+
+# Solicitações da Empresa
+
+Após receber a base de dados, a Orion Tech Solutions encaminhou uma série de solicitações para que a equipe de consultoria realizasse consultas iniciais sobre seus colaboradores.
+
+Essas solicitações representam demandas simples, porém frequentes, em departamentos de Recursos Humanos e People Analytics.
+
+Ao longo desta etapa, cada solicitação será resolvida utilizando comandos da linguagem **R**.
+
+------------------------------------------------------------------------
+
+# Competências Desenvolvidas
+
+Durante esta etapa serão praticados os seguintes conteúdos:
+
+- Manipulação de data frames;
+- Seleção de linhas e colunas;
+- Utilização de operadores relacionais;
+- Utilização de operadores lógicos;
+- Aplicação de estruturas condicionais;
+- Filtragem de informações;
+- Consultas em bases de dados;
+- Cálculo de indicadores simples;
+- Exploração de variáveis.
+
+------------------------------------------------------------------------
+
+# Observação
+
+Todas as consultas realizadas nesta etapa têm finalidade exclusivamente educacional e utilizam uma base de dados fictícia criada para este estudo de caso.
+
+Os resultados obtidos servirão como base para as próximas etapas do projeto, onde serão desenvolvidas análises estatísticas, visualizações e indicadores de People Analytics.
