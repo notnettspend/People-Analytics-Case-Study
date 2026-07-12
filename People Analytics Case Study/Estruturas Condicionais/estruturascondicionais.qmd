@@ -1,0 +1,59 @@
+# Estruturas Condicionais
+
+## Introdução
+
+Após a realização das consultas e manipulações iniciais da base de dados, a empresa **Orion Tech Solutions** encaminhou uma nova série de solicitações para a equipe de consultoria em People Analytics.
+
+Nesta etapa, o objetivo deixa de ser apenas visualizar informações e passa a envolver a aplicação de regras de negócio, permitindo automatizar decisões com base nos dados dos colaboradores.
+
+Para atender às demandas apresentadas pela empresa, serão utilizadas estruturas condicionais da linguagem **R**, possibilitando avaliar diferentes cenários e definir ações de acordo com critérios previamente estabelecidos.
+
+------------------------------------------------------------------------
+
+# Objetivos
+
+Nesta etapa do projeto serão desenvolvidas soluções capazes de:
+
+- Aplicar estruturas condicionais utilizando a linguagem R;
+- Implementar regras de negócio relacionadas aos colaboradores;
+- Automatizar verificações realizadas pelo setor de Recursos Humanos;
+- Classificar colaboradores de acordo com critérios definidos pela empresa;
+- Apoiar a tomada de decisão por meio da programação.
+
+------------------------------------------------------------------------
+
+# Solicitações da Empresa
+
+Após a análise inicial da base de dados, a Orion Tech Solutions solicitou novas verificações relacionadas às políticas internas da organização.
+
+As solicitações envolvem diferentes cenários, como:
+
+- Verificação de salários;
+- Elegibilidade para bônus;
+- Critérios para promoções;
+- Classificação de desempenho;
+- Tempo de empresa;
+- Avaliação de indicadores de satisfação;
+- Regras relacionadas aos cargos e departamentos.
+
+Todas as solicitações serão resolvidas utilizando estruturas condicionais da linguagem R, simulando situações frequentemente encontradas em projetos de People Analytics.
+
+------------------------------------------------------------------------
+
+# Resultados Esperados
+
+Ao final desta etapa espera-se que seja possível:
+
+- Automatizar decisões por meio da programação;
+- Aplicar corretamente estruturas condicionais em diferentes situações;
+- Interpretar regras de negócio propostas pela empresa;
+- Produzir soluções reutilizáveis para futuras análises;
+- Consolidar conhecimentos fundamentais da linguagem R aplicados ao contexto de People Analytics.
+
+------------------------------------------------------------------------
+
+# Considerações Finais
+
+A utilização de estruturas condicionais representa um passo importante no desenvolvimento de soluções analíticas. Em projetos de People Analytics, decisões relacionadas à gestão de pessoas frequentemente dependem da avaliação de diferentes critérios simultaneamente.
+
+Dominar esse tipo de estrutura permite transformar regras de negócio em processos automatizados, tornando as análises mais eficientes, padronizadas e confiáveis.
